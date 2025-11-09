@@ -67,7 +67,6 @@ PACKAGES="$PACKAGES luci-i18n-nlbwmon-zh-cn"
 
 # ---------- 网络与代理 ----------
 PACKAGES="$PACKAGES luci-app-openclash"
-PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ddns-go-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-frpc-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-banip-zh-cn"
