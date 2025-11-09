@@ -73,7 +73,7 @@ PACKAGES="$PACKAGES luci-i18n-banip-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 
 # ---------- 虚拟化与远程 ----------
-PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
+#PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-zerotier-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-rustdesk-server-zh-cn"
 
