@@ -53,8 +53,6 @@ PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 
 # ---------- Luci 主题 ----------
 PACKAGES="$PACKAGES luci-theme-argon"
-PACKAGES="$PACKAGES luci-app-argon-config"
-PACKAGES="$PACKAGES luci-i18n-argon-config-zh-cn"
 
 # ---------- 系统与工具 ----------
 PACKAGES="$PACKAGES luci-i18n-firewall-zh-cn"
@@ -82,7 +80,6 @@ PACKAGES="$PACKAGES luci-i18n-rustdesk-server-zh-cn"
 
 # ---------- 文件管理 ----------
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-dufs-zh-cn"
 
 # ---------- 自定义与第三方扩展 ----------
 # 这行负责合并 shell/custom-packages.sh 里你额外启用的包
